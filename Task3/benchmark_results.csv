@@ -1,0 +1,15 @@
+Sensor,Metric,Method,Time (s),Memory (bytes)
+sensor_1,Rolling Mean,NumPy,0.044512,112
+sensor_1,Rolling Mean,pandas,0.040372,8000164
+sensor_1,Rolling Variance,NumPy,0.092664,112
+sensor_1,Rolling Variance,pandas,0.027367,8000164
+sensor_2,Rolling Mean,NumPy,0.049741,112
+sensor_2,Rolling Mean,pandas,0.030354,8000164
+sensor_2,Rolling Variance,NumPy,0.085387,112
+sensor_2,Rolling Variance,pandas,0.034358,8000164
+sensor_3,Rolling Mean,NumPy,0.03514,112
+sensor_3,Rolling Mean,pandas,0.034925,8000164
+sensor_3,Rolling Variance,NumPy,0.080071,112
+sensor_3,Rolling Variance,pandas,0.044083,8000164
+sensor_1 vs sensor_2,Rolling Covariance,NumPy,0.124943,224
+sensor_1 vs sensor_2,Rolling Covariance,pandas,0.151458,16000328
