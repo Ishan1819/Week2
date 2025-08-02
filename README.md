@@ -1,6 +1,24 @@
 # WEEK 2
 
-This repository contains 4 advanced-level tasks completed as part of a assignment. The tasks involve deep dives into neural networks, NLP, high-performance analytics, and statistical modeling. All code is modular, visualized, and well-documented.
+This repository contains 4 advanced-level tasks and presentations completed as part of a assignment. The tasks involve deep dives into neural networks, NLP, high-performance analytics, and statistical modeling. All code is modular, visualized, and well-documented.
+
+---
+
+
+## Mathematics Presentations
+
+### **Linear Algebra Presentation**
+- Covered vector spaces, linear maps, eigenvalues, eigenvectors, and SVD.
+- Included real-world application: PCA (Principal Component Analysis) for dimensionality reduction.
+- One worked-out problem and diagram included.
+
+---
+
+### **Calculus Presentation**
+- Covered limits, derivatives, integrals, fundamental theorem, and multivariate gradients.
+- Included NumPy-based numerical differentiation/integration.
+- One worked-out numerical example implemented and shown.
+
 
 ---
 
@@ -20,7 +38,7 @@ This repository contains 4 advanced-level tasks completed as part of a assignmen
 **Goal:** Perform interactive text analysis using NLTK via a Streamlit app.  
 - Features: Tokenization, Lemmatization, POS Tagging, NER, Frequency plots  
 - Input: Any raw text via frontend   
-- Run via: `streamlit run streamlit_app.py`  
+- Run via: streamlit run streamlit_app.py 
  
 
 ---
@@ -29,7 +47,7 @@ This repository contains 4 advanced-level tasks completed as part of a assignmen
 **Goal:** Benchmark time-series operations using pandas vs NumPy on 1M+ rows.  
 - Operations: Rolling mean, variance, covariance, EWMA, FFT filters  
 - Visuals: Runtime & memory usage plots  
-- Code: `task3/benchmark.py`, `timeseries.py`, `synthetic_data_gen.py`  
+- Code: task3/benchmark.py, timeseries.py, synthetic_data_gen.py  
 - Output: CSV + PNG charts  
 - Highlights: NumPy significantly faster for large-scale ops
 
@@ -39,7 +57,7 @@ This repository contains 4 advanced-level tasks completed as part of a assignmen
 **Goal:** Clean real-world churn data and build a logistic regression model.  
 - Techniques: Outlier removal, imputation, polynomial features  
 - Model: Logistic Regression + R² & accuracy metrics  
-- Code: `task4/data_prep.py`, `modeling.py`  
+- Code: task4/data_prep.py, modeling.py
 - Result: ~82% accuracy  
 - Data: Customer subscription dataset
 
