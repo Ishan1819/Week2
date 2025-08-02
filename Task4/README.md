@@ -2,7 +2,7 @@ Task 4: Complex Data Munging & Statistical Modeling
 
 Objective 
 
-This task focuses on real-world data preprocessing, feature engineering, and statistical modeling using Python libraries like `pandas`, `numpy`, and `statsmodels`. The goal is to predict customer churn based on multiple features after thorough cleaning and transformation.
+This task focuses on real-world data preprocessing, feature engineering, and statistical modeling using Python libraries like pandas, numpy, and statsmodels. The goal is to predict customer churn based on multiple features after thorough cleaning and transformation.
 
 ---
 
