@@ -1,4 +1,4 @@
-*From Scratch Neural-Net Regression with NumPy Only*
+**From Scratch Neural-Net Regression with NumPy Only**
 
 *Overview*
 This project implements a fully connected feedforward neural network from scratch using only NumPy for a regression task. The model is trained on a synthetic cubic function with added noise, demonstrating effective learning through forward and backward propagation.
@@ -63,4 +63,5 @@ Gradient computation.
 Parameter updates.
 The role of activations and loss functions.
 Visualization helps monitor convergence and debug learning issues.
+
 
