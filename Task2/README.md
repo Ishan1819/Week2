@@ -1,5 +1,6 @@
-**NLTK-Powered Text Analytics Web App
-Overview**
+**NLTK-Powered Text Analytics Web App**
+__________________________________________________________________________________________________________________________________________________________________________________________
+**Overview**
 This project is a web-based natural language processing (NLP) tool built using Streamlit, NLTK, and pandas. It allows users to upload a .txt file and explore various NLP analyses like tokenization, POS tagging, sentiment scoring, and N-gram frequency distributions through an interactive UI.
 
 
