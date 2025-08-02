@@ -1,4 +1,4 @@
-**From Scratch Neural-Net Regression with NumPy Only**
+**Task1: From Scratch Neural-Net Regression with NumPy Only**
 
 __________________________________________________________________________________________________________________________________________________________________________________________
 **Overview**
@@ -91,6 +91,7 @@ Parameter updates.
 The role of activations and loss functions.
 
 Visualization helps monitor convergence and debug learning issues.
+
 
 
 
