@@ -1,41 +1,34 @@
-NLTK-Powered Text Analytics Web App
-Overview
+**NLTK-Powered Text Analytics Web App
+Overview**
 This project is a web-based natural language processing (NLP) tool built using Streamlit, NLTK, and pandas. It allows users to upload a .txt file and explore various NLP analyses like tokenization, POS tagging, sentiment scoring, and N-gram frequency distributions through an interactive UI.
 
 
-Features Implemented
+**Features Implemented**
 Text Preprocessing:
 Cleaning, punctuation removal, lowercasing
 Stopword removal and lemmatization
 
-NLP Techniques:
+**NLP Techniques:**
 Tokenization and Part-of-Speech (POS) tagging
 Word frequency distributions
 Bigram and Trigram collocations
 Sentiment analysis using TextBlob
 
-Visualizations:
+**Visualizations:**
 Bar charts for word frequencies and N-grams (via Streamlit/matplotlib)
 
-Interactive Web Interface:
+**Interactive Web Interface:**
 Built using Streamlit
 
-Two pages:
+**Two pages:**
 Data Explorer to view raw text, tokens, POS, and sentiment
 Analysis Dashboard to visualize frequency and N-gram stats
 
 
-Requirements.txt
-How to Run the App Locally
-Clone or download the repository - github clone 
+**Requirements.txt**
+Clone or download the repository
 pip install streamlit nltk pandas matplotlib textblob
-
-
-Install dependencies (as above).
-
-In your terminal, run:
-
-
+After installing, put below command in the terminal
 streamlit run streamlit_app.py
 Upload a .txt file from the sidebar to start exploring the text.
 
