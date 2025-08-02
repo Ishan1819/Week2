@@ -9,11 +9,17 @@ ________________________________________________________________________________
 **Features Implemented**
 
 Custom Dense Layers with weights and biases
+
 Activation Functions: ReLU and Sigmoid (ReLU used in model)
+
 Loss Function: Mean Squared Error (MSE)
+
 Optimizer: Manual Stochastic Gradient Descent (SGD)
+
 Gradient Backpropagation: Implemented manually for all layers
+
 Training Visualization: Loss curve and prediction vs. ground truth
+
 Evaluation Metric: R² Score
 
 __________________________________________________________________________________________________________________________________________________________________________________________
@@ -37,8 +43,11 @@ ________________________________________________________________________________
 **Training Details**
 
 Epochs: 900
+
 Learning Rate: 0.01
+
 Batch Size: Full batch (all data used each step)
+
 Loss Function: MSE
 
 __________________________________________________________________________________________________________________________________________________________________________________________
@@ -72,11 +81,17 @@ pip install numpy matplotlib notebook
 
 __________________________________________________________________________________________________________________________________________________________________________________________
 **Key Learnings**
+
 Building neural networks from scratch enhances understanding of:
+
 Gradient computation.
+
 Parameter updates.
+
 The role of activations and loss functions.
+
 Visualization helps monitor convergence and debug learning issues.
+
 
 
 
