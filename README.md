@@ -65,8 +65,14 @@ This repository contains 4 advanced-level tasks and presentations completed as p
 
 ## Setup Instructions
 
+Clone the repository by putting:
+
+git clone https://github.com/Ishan1819/ShopBuddy.git
+
 # Create and activate a virtual environment (optional)
+
 python -m venv venv
+
 source venv/bin/activate  # or venv\Scripts\activate on Windows
 
 Dependencies installation in the individual folders
