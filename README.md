@@ -29,7 +29,7 @@ This repository contains 4 advanced-level tasks and presentations completed as p
 - Implements: Dense layers, ReLU, MSE Loss, SGD optimizer  
 - Dataset: Synthetic cubic function  
 - Architecture: 1 → 64 → ReLU → 64 → ReLU → 1  
-- Result: Achieved R² ≈ 0.99  
+- Result: Achieved R² = 0.98  
 
 
 ---
@@ -58,7 +58,7 @@ This repository contains 4 advanced-level tasks and presentations completed as p
 - Techniques: Outlier removal, imputation, polynomial features  
 - Model: Logistic Regression + R² & accuracy metrics  
 - Code: task4/data_prep.py, modeling.py
-- Result: ~82% accuracy  
+- Result: 82% accuracy  
 - Data: Customer subscription dataset
 
 ---
