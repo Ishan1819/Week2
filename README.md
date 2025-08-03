@@ -65,7 +65,7 @@ This repository contains 4 advanced-level tasks and presentations completed as p
 
 ## Setup Instructions
 
-Clone the repository by putting:
+Clone the repository by putting below command on VS Code terminal:
 
 git clone https://github.com/Ishan1819/ShopBuddy.git
 
