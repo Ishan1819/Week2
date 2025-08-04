@@ -36,7 +36,7 @@ Steps Performed
 Model Summary 
 
 - Model Type: Logistic Regression
-- Accuracy: ~82%
+- Accuracy: 82%
 - Key Influencers: Tenure, Gender, Usage Frequency, Spend Category
 
 ---
