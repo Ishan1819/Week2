@@ -52,3 +52,7 @@ How to Run
 1. Install dependencies  
  
    pip install pandas numpy statsmodels matplotlib
+
+   Copy the path of churn_dataset given in the directory into the task4_data_prep.ipynb file and run it.
+
+   After running tesk4_data_prep.ipynb file, run task4_modeling.ipynb file.
