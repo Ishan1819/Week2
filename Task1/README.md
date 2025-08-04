@@ -67,7 +67,7 @@ The training loss consistently decreased, indicating proper gradient flow and co
 __________________________________________________________________________________________________________________________________________________________________________________________
 **Evaluation**
 
-R² Score: ~0.99, indicating excellent fit.
+R² Score: 0.98, indicating excellent fit.
 
 __________________________________________________________________________________________________________________________________________________________________________________________
 **Convergence Analysis**
@@ -79,6 +79,7 @@ ________________________________________________________________________________
 
 pip install numpy matplotlib notebook
 
+Run train.ipynb file
 __________________________________________________________________________________________________________________________________________________________________________________________
 **Key Learnings**
 
@@ -91,6 +92,7 @@ Parameter updates.
 The role of activations and loss functions.
 
 Visualization helps monitor convergence and debug learning issues.
+
 
 
 
